@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abigailhaddad
+- 👀 I’m interested in data science, Python, and text analysis. 
+- 🌱 I’m currently implementing a kid's board game and an analysis of survey results. 
