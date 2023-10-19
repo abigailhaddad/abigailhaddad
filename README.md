@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abigail Haddad. I'm a data scientist.
 
-- 📝 If you're here from the RGOV conference, here are [my slides from the talk](https://github.com/abigailhaddad/conference_talk_slides) and here is [the code for that project](https://github.com/abigailhaddad/usajobs_classification_with_marvin)
+- 📝 If you're here from the RGOV conference, here are [my slides from the talk and my notes](https://github.com/abigailhaddad/conference_talk_slides) and here is [the code for that project](https://github.com/abigailhaddad/usajobs_classification_with_marvin)
 - 📝[Here are slides from a talk I gave to undergrads about getting into data science](https://github.com/abigailhaddad/slides/blob/main/Working%20In%20Data%20Science.pdf)
 - 📝[Here are slides from a talk I gave to researchers and analysts about coding practices](https://github.com/abigailhaddad/slides/blob/main/Better%20Coding%20Practices.pdf)
 - 📝[Here is some resume advice for undergraduates who are applying to data analysis/data science jobs](https://github.com/abigailhaddad/slides/blob/main/Creating%20a%20Resume%20for%20Data%20Analysis%20and%20Data%20Science%20Jobs%20as%20an%20Undergraduate.md)
