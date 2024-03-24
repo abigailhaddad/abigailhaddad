@@ -44,5 +44,5 @@ Get in touch if you're interested in getting involved with/sponsoring Data Commu
 - [Mapping Testing to Threats: For pre-release testing, the threat model should inform the methods](https://presentofcoding.substack.com/p/mapping-testing-to-threats)
 - [Inferring numerators and denominators from decimals using SymPy to re-identify anonymized data](https://blog.capitaltg.com/ghost/#/editor/post/63d2d6482eaf220001392673)
   - [Code](https://github.com/abigailhaddad/fractionUniqueness)
-- [Resume advice for undergraduates who are applying to data analysis/data science jobs](https://github.com/abigailhaddad/slides/blob/main/Improving-Your-Jupyter-Notebook-GitHub.pdf)
-- [GitHub repo advice for if you have a portfolio of Jupyter notebooks](https://github.com/abigailhaddad/slides/blob/main/Creating-a-Resume-for-Data-Analysis-and-Data-Science-Jobs-as-an-Undergraduate.pdf)
+- [Resume advice for undergraduates who are applying to data analysis/data science jobs](https://github.com/abigailhaddad/slides/blob/main/Creating-a-Resume-for-Data-Analysis-and-Data-Science-Jobs-as-an-Undergraduate.pdf)
+- [GitHub repo advice for if you have a portfolio of Jupyter notebooks](https://presentofcoding.substack.com/p/improving-your-jupyter-notebook-github)
