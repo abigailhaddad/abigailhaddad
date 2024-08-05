@@ -6,7 +6,7 @@
 
 ## Bio
 
-Hi, I'm Abigail Haddad. I'm a data scientist working on LLM evals. I previously worked on research and data science for the Department of Defense, including at the RAND Corporation and as a Department of the Army civilian.
+Hi, I'm Abigail Haddad. I'm an ML engineer/data scientist. I previously worked on LLM evals as well as research and data science for the Department of Defense, including at the RAND Corporation and as a Department of the Army civilian.
 
 My areas of interest include:
 
